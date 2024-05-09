@@ -2,4 +2,4 @@
 
 A small Java project.
 
-* Ths repository belongs to yourMidasID@odu.edu
+* Ths repository belongs to zperk002@odu.edu
