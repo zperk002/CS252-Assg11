@@ -26,7 +26,7 @@ public class Median {
         for (int i = 0; i < values.length; ++i) {
             sorted[i] = values[i];
         }
-        Arrrrays.sort(sorted);
+        Arrays.sort(sorted);
         int middle = values.length / 2;
         if (values.length % 2 == 0) {
             return 0.5 * (sorted[middle] + sorted[middle+1]);
